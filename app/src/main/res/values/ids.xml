@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="launchListLayout" type="id" />
+    <item name="launch" type="id" />
+    <item name="className" type="id" />
+    <item name="packageName" type="id" />
+</resources>
